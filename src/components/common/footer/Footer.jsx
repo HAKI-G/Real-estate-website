@@ -10,7 +10,7 @@ const Footer = () => {
           <div className='send flex'>
             <div className='text'>
               <h1>Do You Have Questions ?</h1>
-              <p>We'll help you to grow your career and growth.</p>
+              <p>We'll help you to find you best shoes</p>
             </div>
             <button className='btn5'>Contact Us Today</button>
           </div>
@@ -21,7 +21,7 @@ const Footer = () => {
         <div className='container'>
           <div className='box'>
             <div className='logo'>
-              <img src='../images/logo-light.png' alt='' />
+              <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu12IRzCwhpd1IRzqZN4IS_DXEnUvKmnDHwJjzEy77jA&s' alt='' />
               <h2>Do You Need Help With Anything?</h2>
               <p>Receive updates, hot deals, tutorials, discounts sent straignt in your inbox every month</p>
 
@@ -45,7 +45,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className='legal'>
-        <span>© 2021 RentUP. Designd By GorkCoder.</span>
+        <span>© 2021 Plat-Tech. Designd By Banorants.</span>
       </div>
     </>
   )
